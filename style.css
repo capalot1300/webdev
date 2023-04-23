@@ -1,0 +1,143 @@
+.navbar-nav{
+    font-size: 1.5rem;
+    position: absolute;
+    left: 700px;
+    gap: 10px;
+}
+
+/* #apply{
+    background-color: black;
+    color: white;
+    padding: 10px;
+} */
+
+img{
+    margin-left:10px;
+}
+
+#shf{
+    margin-left: 15%;
+    margin-top: 2%;
+}
+
+.skills{
+    font-weight: 400;
+}
+
+p{
+    margin-top: 2rem;
+}
+
+#gut{
+    margin-left: 20px;
+
+}
+
+.move{
+    margin-left: 13%;
+}
+
+.calm{
+    margin-top:4% ;
+}
+
+.course{
+    text-align: center;
+    margin-top: 3rem;
+}
+
+h5{
+    background-color: whitesmoke;
+    padding: 70px 50px 70px 50px;
+}
+
+/* .pad-1{
+padding: 1px 90px 1px 70px;
+} */
+
+.container1{
+    display: flex;
+    justify-content: space-around;   
+}
+.second{
+    width: 350px;
+    height: 200px;
+}
+
+.container2{
+    display: flex;
+    justify-content: space-around;   
+}
+.first{
+    width: 350px;
+    height: 200px;
+}
+
+.container3{
+    display: flex;
+    justify-content: space-around;   
+}
+.third{
+    width: 350px;
+    height: 200px;
+}
+
+.container4{
+    display: flex;
+    justify-content: space-around;   
+}
+.fourth{
+    width: 350px;
+    height: 200px;
+}
+
+#form{
+    padding-left: 20em;
+}
+
+input{
+    width: 20em;
+    height: 3em;
+    border-radius: 5px;
+
+}
+select{
+    width: 20em;
+    height: 3em;
+    border-radius: 5px;
+
+}
+tr{
+    border-spacing: 3em;
+}
+
+.learn{
+    width: 40em;
+    height: 3em;
+    border-radius: 5px;
+}
+.apply2{
+    background-color: black;
+    color: white;
+    width: 12em;
+    height: 3em;
+    margin-left: 17em;
+    margin-top: 3em;
+    border-radius: 3em;
+    cursor: pointer;
+}
+.apply2:hover{
+    background-color:blue;
+    color: green;
+    width: 13em;
+    height: 4em;
+    margin-left: 17em;
+    margin-top: 3em;
+    border-radius: 3em;
+    cursor: pointer;
+    transition: 4s;
+}
+
+footer{
+    text-align: center ;
+}
